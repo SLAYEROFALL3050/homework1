@@ -1,0 +1,6 @@
+What is the difference between a merge and a rebase?
+
+A merge is when two branches of code are merged in a non-destructive manner.
+A rebase is the same as a merge except that it is destructive.Where a merge
+simply points to the new feature branch, rebase changes the entire structure
+of the tree, to make sure that everyhtin is on one branch.
